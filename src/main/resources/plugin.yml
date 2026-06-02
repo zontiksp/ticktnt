@@ -1,0 +1,4 @@
+name: tnttick
+version: '1.0'
+main: org.example.mynewplugin.MyFirstPlugin
+api-version: '1.20'

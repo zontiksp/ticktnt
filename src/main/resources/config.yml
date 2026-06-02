@@ -1,0 +1,3 @@
+# Настройки плагина TntTick
+tnt-text-format: "&cВзрыв через: &a%seconds%с"
+log-to-console: true
