@@ -1,4 +1,9 @@
-name: tnttick
+name: TntTick
 version: '1.0'
 main: org.example.mynewplugin.MyFirstPlugin
 api-version: '1.20'
+
+commands:
+  tntconsole:
+    description: Переключение вывода логов ТНТ в консоль.
+    permission: tnttick.admin
